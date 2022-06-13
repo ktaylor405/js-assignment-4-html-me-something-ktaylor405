@@ -1,1 +1,46 @@
 /* Write your CSS here! */
+body {
+ margin: 8px;
+ border: 1px solid #000000;
+
+}
+
+h2{
+    font-size: 30px;
+}
+
+#mainHeading{
+    color: red;
+text-shadow: rgb(0, 0, 0) 4px 3px 0px;
+
+}
+
+#author {
+    font-style: italic;
+
+}
+
+.funParagraph{
+    color:green;
+    font-size: 30px;
+}
+
+img{
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+      }
+#ups{
+    color:brown;
+    font-size: 30px;
+}
+#walmart{
+    color: blue;
+    font-size: 30px;
+}
+#amazon{
+    color: navy;
+    font-size: 30px;
+}
